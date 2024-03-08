@@ -1,7 +1,7 @@
 ![Mastercard Logo](https://miro.medium.com/v2/resize:fit:1024/1*xFFecvB-joh7wBCh05NRsQ.png)
 
 <h1 align="center">Hi 👋, I'm Pavitirakumaran</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Web Developer</h3>
 <img width="300" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png" align="right" alt="web Development">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaran2442&label=Profile%20views&color=0e75b6&style=flat" alt="kumaran2442" /> </p>
