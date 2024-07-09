@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pavitirakumaran2442@gmail.com**
 
-- 📄 Download Resume here [https://chocolate-carmela-60.tiiny.site/)
+- 📄 Download Resume here [[https://chocolate-carmela-60.tiiny.site/](https://azure-lucky-6.tiiny.site))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
